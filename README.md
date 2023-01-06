@@ -1,2 +1,2 @@
-# e-bloodbank
-A project on Blood Bank System
+# RedWings Blood Bank
+A project on Blood Bank 
