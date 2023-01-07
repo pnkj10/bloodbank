@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\pankaj_ and_pravin\\dotnet\\bloodbank\\redwings\\redwings.csproj": {}
+    "D:\\pankaj_ and_pravin\\dotnet\\bloodbank\\bloodbank\\bloodbank\\redwings\\redwings.csproj": {}
   },
   "projects": {
-    "D:\\pankaj_ and_pravin\\dotnet\\bloodbank\\redwings\\redwings.csproj": {
+    "D:\\pankaj_ and_pravin\\dotnet\\bloodbank\\bloodbank\\bloodbank\\redwings\\redwings.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\pankaj_ and_pravin\\dotnet\\bloodbank\\redwings\\redwings.csproj",
+        "projectUniqueName": "D:\\pankaj_ and_pravin\\dotnet\\bloodbank\\bloodbank\\bloodbank\\redwings\\redwings.csproj",
         "projectName": "redwings",
-        "projectPath": "D:\\pankaj_ and_pravin\\dotnet\\bloodbank\\redwings\\redwings.csproj",
+        "projectPath": "D:\\pankaj_ and_pravin\\dotnet\\bloodbank\\bloodbank\\bloodbank\\redwings\\redwings.csproj",
         "packagesPath": "C:\\Users\\dac.DYPM\\.nuget\\packages\\",
-        "outputPath": "D:\\pankaj_ and_pravin\\dotnet\\bloodbank\\redwings\\obj\\",
+        "outputPath": "D:\\pankaj_ and_pravin\\dotnet\\bloodbank\\bloodbank\\bloodbank\\redwings\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

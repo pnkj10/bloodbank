@@ -17,19 +17,23 @@ public class HomeController : Controller
     {
         return View();
     }
-  public IActionResult home()
+    public IActionResult home()
     {
         return View();
     }
-    public IActionResult login()
-    {
-        return View();
-    }
+
+
+
+    [HttpGet]
     public IActionResult aboutus()
     {
+         Console.WriteLine("Invoking Home Controller About us method. ");
         return View();
     }
-  
+
+
+
+
 
     [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
     public IActionResult Error()

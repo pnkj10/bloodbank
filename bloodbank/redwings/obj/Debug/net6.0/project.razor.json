@@ -1,5 +1,5 @@
 {
-  "FilePath": "d:\\pankaj_ and_pravin\\dotnet\\bloodbank\\bloodbank\\bloodbank\\BloodBank\\BloodBank.csproj",
+  "FilePath": "d:\\pankaj_ and_pravin\\dotnet\\bloodbank\\bloodbank\\bloodbank\\redwings\\redwings.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "6.0",
@@ -16295,7 +16295,63 @@
     ],
     "CSharpLanguageVersion": 1000
   },
-  "RootNamespace": "BloodBank",
-  "Documents": [],
+  "RootNamespace": "redwings",
+  "Documents": [
+    {
+      "FilePath": "d:\\pankaj_ and_pravin\\dotnet\\bloodbank\\bloodbank\\bloodbank\\redwings\\Views\\Auth\\login.cshtml",
+      "TargetPath": "Views\\Auth\\login.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\pankaj_ and_pravin\\dotnet\\bloodbank\\bloodbank\\bloodbank\\redwings\\Views\\Shared\\Error.cshtml",
+      "TargetPath": "Views\\Shared\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\pankaj_ and_pravin\\dotnet\\bloodbank\\bloodbank\\bloodbank\\redwings\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\pankaj_ and_pravin\\dotnet\\bloodbank\\bloodbank\\bloodbank\\redwings\\Views\\Shared\\_Layout.cshtml",
+      "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\pankaj_ and_pravin\\dotnet\\bloodbank\\bloodbank\\bloodbank\\redwings\\Views\\Home\\home.cshtml",
+      "TargetPath": "Views\\Home\\home.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\pankaj_ and_pravin\\dotnet\\bloodbank\\bloodbank\\bloodbank\\redwings\\Views\\Auth\\Register.cshtml",
+      "TargetPath": "Views\\Auth\\Register.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\pankaj_ and_pravin\\dotnet\\bloodbank\\bloodbank\\bloodbank\\redwings\\Views\\Home\\Index.cshtml",
+      "TargetPath": "Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\pankaj_ and_pravin\\dotnet\\bloodbank\\bloodbank\\bloodbank\\redwings\\Views\\_ViewImports.cshtml",
+      "TargetPath": "Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\pankaj_ and_pravin\\dotnet\\bloodbank\\bloodbank\\bloodbank\\redwings\\Views\\_ViewStart.cshtml",
+      "TargetPath": "Views\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\pankaj_ and_pravin\\dotnet\\bloodbank\\bloodbank\\bloodbank\\redwings\\Views\\Auth\\Welcome.cshtml",
+      "TargetPath": "Views\\Auth\\Welcome.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\pankaj_ and_pravin\\dotnet\\bloodbank\\bloodbank\\bloodbank\\redwings\\Views\\Home\\aboutus.cshtml",
+      "TargetPath": "Views\\Home\\aboutus.cshtml",
+      "FileKind": "mvc"
+    }
+  ],
   "SerializationFormat": "0.2"
 }

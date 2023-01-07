@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\pankaj_ and_pravin\\dotnet\\bloodbank\\BloodBank\\BloodBank.csproj",
+      "projectUniqueName": "D:\\pankaj_ and_pravin\\dotnet\\bloodbank\\bloodbank\\bloodbank\\BloodBank\\BloodBank.csproj",
       "projectName": "BloodBank",
-      "projectPath": "D:\\pankaj_ and_pravin\\dotnet\\bloodbank\\BloodBank\\BloodBank.csproj",
+      "projectPath": "D:\\pankaj_ and_pravin\\dotnet\\bloodbank\\bloodbank\\bloodbank\\BloodBank\\BloodBank.csproj",
       "packagesPath": "C:\\Users\\dac.DYPM\\.nuget\\packages\\",
-      "outputPath": "D:\\pankaj_ and_pravin\\dotnet\\bloodbank\\BloodBank\\obj\\",
+      "outputPath": "D:\\pankaj_ and_pravin\\dotnet\\bloodbank\\bloodbank\\bloodbank\\BloodBank\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
